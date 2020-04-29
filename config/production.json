@@ -1,6 +1,0 @@
-{
-  "port": 5000,
-  "jwtSecret": "secret key my name is Ilya",
-  "mongoUri": "mongodb+srv://ilya:ilyapass@cluster0-v8ngy.mongodb.net/app?retryWrites=true&w=majority",
-  "baseUrl": "http://localhost:5000"
-}
